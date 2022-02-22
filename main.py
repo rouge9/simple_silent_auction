@@ -27,3 +27,4 @@ for bids in list:
 
 
 print("i dont know")
+print("second i dont know")
