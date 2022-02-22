@@ -24,3 +24,6 @@ for bids in list:
     new_bid = list[bids]
     if new_bid == temp:
         print(f"the winner is {bids}")
+
+
+print("i dont know")
