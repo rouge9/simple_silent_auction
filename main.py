@@ -26,5 +26,3 @@ for bids in list:
         print(f"the winner is {bids}")
 
 
-print("i dont know")
-print("second i dont know")
